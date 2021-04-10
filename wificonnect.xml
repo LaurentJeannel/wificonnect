@@ -1,0 +1,7 @@
+<item>détecte le portable de laurent<tag>data.réponse="je cherche";data.ip="192.168.0.34";data.oui="laurent est présent sur le réseau";data.non="laurent absent du réseau";</tag></item>
+
+
+<item>surveille le portable de laurent<tag>data.réponse="je surveille laurent";data.ip="192.168.0.34";data.oui="laurent est arrivé";data.non="laurent est absent du réseau";data.surveillance="on";data.timersortie="120";data.timerfrequence="60";data.sequence="Mathilde il est quelle heure|Mathilde la météo à toulouse";</tag></item>
+
+
+
